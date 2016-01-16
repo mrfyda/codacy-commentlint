@@ -1,0 +1,8 @@
+[
+  {
+    "patternId": "commentlint",
+    "title": "Find comments",
+    "description": "Find technical debt comments",
+    "timeToFix": 5
+  }
+]

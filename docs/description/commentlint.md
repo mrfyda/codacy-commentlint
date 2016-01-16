@@ -1,0 +1,1 @@
+Find common technical debt comments: FIXME, TODO, HACK and BUG.

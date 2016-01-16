@@ -1,0 +1,10 @@
+{
+  "name": "commentlint",
+  "patterns": [
+    {
+      "patternId": "commentlint",
+      "category": "CodeStyle",
+      "level": "Info"
+    }
+  ]
+}

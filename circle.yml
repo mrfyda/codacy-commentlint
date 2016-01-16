@@ -1,0 +1,15 @@
+machine:
+  services:
+    - docker
+
+dependencies:
+  override:
+    - npm install
+    - grunt
+    - docker build -t $CIRCLE_PROJECT_REPONAME .
+
+test:
+  pre:
+    - git clone https://github.com/codacy/codacy-plugins-test.git
+  override:
+    - (cd codacy-plugins-test; sbt "run-main codacy.plugins.DockerTest all $CIRCLE_PROJECT_REPONAME:latest")
