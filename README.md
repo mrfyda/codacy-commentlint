@@ -1,5 +1,5 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/e3358fb3445a4337b9e20c5c09106925)](https://www.codacy.com/app/mrfyda/codacy-comments)
-[![Build Status](https://circleci.com/gh/mrfyda/codacy-comments.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/mrfyda/codacy-comments)
+[![Build Status](https://circleci.com/gh/mrfyda/codacy-commentlint.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/mrfyda/codacy-commentlint)
 
 # codacy-comments
 
