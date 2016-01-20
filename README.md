@@ -1,7 +1,7 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/e3358fb3445a4337b9e20c5c09106925)](https://www.codacy.com/app/mrfyda/codacy-comments)
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/23e7402a99bc42e99e81e935a891e920)](https://www.codacy.com/app/mrfyda/codacy-commentlint)
 [![Build Status](https://circleci.com/gh/mrfyda/codacy-commentlint.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/mrfyda/codacy-commentlint)
 
-# codacy-comments
+# codacy-commentlint
 
 A codacy tool for finding comments in your code which match the following strings:
 
